@@ -1,1 +1,2 @@
-# -solidity_utilities
+# solidity_utilities
+MIT
